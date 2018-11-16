@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="vertical"
+  android:padding="10dp"
+  >
+  <LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <Button
+      android:id="@+id/btnPrincipiante"
+      android:text="@string/principiante"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+     />
+
+
+      <Button
+        android:id="@+id/btnMedio"
+
+        android:text="@string/intermedio"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+         />
+
+
+
+
+      <Button
+        android:id="@+id/btnAvanzado"
+        android:text="@string/avanzado"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+
+      <Button  android:layout_marginTop="50dp"
+        android:id="@+id/btnSalir"
+        android:text="@string/cerrar_app"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+  </LinearLayout>
+
+
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>

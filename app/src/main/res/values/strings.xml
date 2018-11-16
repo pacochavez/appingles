@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">My Application</string>
+  <string name="opcion_a"> opción A</string>
+  <string name="opcion_b">opción B</string>
+  <string name="opcion_c">opción C</string>
+  <string name="opcion_d">opción D</string>
+  <string name="aceptar">aceptar</string>
+  <string name="palabra">Palabra</string>
+  <string name="cerrar_app">Cerrar aplicacion</string>
+  <string name="avanzado">Avanzado</string>
+  <string name="intermedio">Intermedio</string>
+  <string name="principiante">Principiante</string>
+  <string name="veredicto">veredicto</string>
+  <string name="x_15">Principiante</string>
+
+
+</resources>
